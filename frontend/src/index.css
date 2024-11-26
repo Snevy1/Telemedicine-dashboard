@@ -15,6 +15,11 @@ body,
   position: relative;
 }
 
+.sidebar{
+  height: 100vh;
+}
+
+
 /* scrollbar */
 
 ::-webkit-scrollbar{
