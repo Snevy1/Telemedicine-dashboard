@@ -8,3 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # All packages needed are installed using this line:  npm install @mui/material @emotion/react @emotion/styled @mui/icons-material @mui/x-data-grid react-router-dom react-pro-sidebar formik yup @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo
+
+# Later installed  npm i @fullcalendar/react @fullcalendar/interaction
